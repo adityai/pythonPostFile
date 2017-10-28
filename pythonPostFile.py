@@ -8,3 +8,4 @@ def main():
 	print (r.status_code)
 
 main()
+chmod 755 PythonVirtualEnv/PythonVirtualEnvInstaller.sh
